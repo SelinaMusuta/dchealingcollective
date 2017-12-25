@@ -1,6 +1,6 @@
 # DC Healers Collective
 
-This contains a directory of Yoga Instructors of Color based in the DC/Maryland/Virginia Area & classes that they are teaching at the DC Center
+This contains a directory of Yoga Instructors of Color based in the DC/Maryland/Virginia Area & classes that they are teaching at the DC Center for the spring of 2018.
 
 ## Getting Started
 
